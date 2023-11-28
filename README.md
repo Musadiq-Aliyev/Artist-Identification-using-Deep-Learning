@@ -37,13 +37,13 @@ Fine-tune hyperparameters for optimal results.
 Results:
 Provide insights into the model's accuracy, strengths, and potential areas for improvement.
 
-Future Enhancements:
+## Future Enhancements:
 
 
-Conclusion:
+## Conclusion:
 
 
-How to Run:
+## How to Run:
 
 
-Acknowledgments:
+## Acknowledgments:
