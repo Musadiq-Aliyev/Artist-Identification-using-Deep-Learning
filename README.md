@@ -1,12 +1,12 @@
 # Artist Identification using Deep Learning
 ## Project Overview:
-Art identification is a challenging problem with significant implications in art history, curation, and authentication. This project aims to develop an accurate and efficient system for automatically identifying and categorizing artworks based on their respective artists. The focus is on leveraging deep learning techniques, specifically Convolutional Neural Networks (CNNs), for feature extraction and classification.
+Art identification is a challenging problem with significant implications in art history, curation, and authentication. This project aims to develop an accurate and efficient model for automatically identifying and categorizing artworks based on their respective artists. The focus is using deep learning techniques specifically Convolutional Neural Networks (CNNs) for this problem.
 
 ## Problem Statement:
 The primary goal is to build a robust artist identification system capable of distinguishing the unique styles of different artists. For example, the system should be able to differentiate between Van Gogh's bold colors and distorted shapes and Gauguin's warmer color palette. The dataset used in this project consists of 8,355 paintings from 50 renowned artists.
 
 ## Motivation:
-The motivation behind this project is twofold - a passion for art and a keen interest in image classification. By working on this project, there is an opportunity to explore various image classification architectures and gain practical experience. The use of transfer learning, especially, provides a chance to apply novel approaches and expand knowledge in the realm of deep learning.
+The motivation behind this project is two fold - a passion for art and a keen interest in image classification. By working on this project, there is an opportunity to explore various image classification architectures and gain practical experience. The use of transfer learning, especially, provides a chance to apply novel approaches and expand knowledge in the realm of deep learning.
 
 ## Objectives:
 Develop a deep learning model, primarily using CNNs, for accurate feature extraction and classification of artworks.
@@ -36,14 +36,3 @@ Assess model performance using appropriate metrics (accuracy, precision, recall)
 Fine-tune hyperparameters for optimal results.
 Results:
 Provide insights into the model's accuracy, strengths, and potential areas for improvement.
-
-## Future Enhancements:
-
-
-## Conclusion:
-
-
-## How to Run:
-
-
-## Acknowledgments:
