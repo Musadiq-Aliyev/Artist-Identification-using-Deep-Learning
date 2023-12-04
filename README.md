@@ -34,5 +34,3 @@ Improve the model's ability to generalize to unseen data.
 5. Evaluation:
 Assess model performance using appropriate metrics (accuracy, precision, recall).
 Fine-tune hyperparameters for optimal results.
-Results:
-Provide insights into the model's accuracy, strengths, and potential areas for improvement.
